@@ -6,6 +6,8 @@
  c. Predict whether the machine will fail based on the given variables. 
  d. Predict the failure type of the machine. 
 
+**Solution**
+
 As a part of Exploratory Data Analysis (EDA), preprocess data to treat any nulls, duplicates, and outliers present in the data. 
 
 Various visualization charts are drawn to identify patterns and chances of failure across the combination of different sets of features. 
